@@ -1,0 +1,1 @@
+# Vuex-Firestore-Starter-Example
