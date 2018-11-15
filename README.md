@@ -1,4 +1,8 @@
 # Vuex Firestore Starter Example
+## Demo
+```
+https://vuex-firestore-boilerplate.firebaseapp.com/
+```
 ## Project setup
 ```
 npm install
@@ -13,7 +17,7 @@ npm run serve
 ```
 ## Theme Customisation
 ```
-src>plugins>vuetify.js
+src/plugins/vuetify.js
 ```
 ## Theme Generator
 ```

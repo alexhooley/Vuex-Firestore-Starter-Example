@@ -3,7 +3,7 @@
     <v-card class="flex" flat tile>
       <v-card-actions class="justify-center">
         <a href="https://alexhooley.com">
-          Alex Hooley
+          Made by Alex Hooley
         </a>
       </v-card-actions>
     </v-card>
