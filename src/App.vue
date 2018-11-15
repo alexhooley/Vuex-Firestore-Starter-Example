@@ -30,7 +30,7 @@
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-sm-and-down">
         <v-btn flat v-for="item in menuItems" :key="item.id" :to="(item.to)">{{item.name}}</v-btn>
-        <v-btn flat href="https://github.com/" target="_blank">
+        <v-btn flat href="https://github.com/alexhooley/Vuex-Firestore-Starter-Example" target="_blank">
           View on Github
           <v-icon right>open_in_new</v-icon>
         </v-btn>
