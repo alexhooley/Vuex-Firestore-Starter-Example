@@ -17,7 +17,5 @@ npm run serve
 ```
 src/plugins/vuetify.js
 ```
-### Theme generator
-```
-https://vuetifyjs.com/en/theme-generator
-```
+### Vuetify Theme generator
+[https://vuetifyjs.com/en/theme-generator](https://vuetifyjs.com/en/theme-generator)
