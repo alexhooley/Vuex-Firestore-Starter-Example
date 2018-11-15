@@ -2,7 +2,7 @@
 ## Demo
 ```
 [https://vuex-firestore-boilerplate.firebaseapp.com/](https://vuex-firestore-boilerplate.firebaseapp.com/)
-```
+
 ## Project setup
 ```
 npm install
